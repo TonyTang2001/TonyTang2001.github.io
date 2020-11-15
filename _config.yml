@@ -8,38 +8,37 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Tony Tang's Channel
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Today's a great day.
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Tony Tang is currently an iOS developer, a UX designer, and a Lifelong learner. 
+  He is a UCSD'23er, a research assistant @ UCSD Mobile Systems Design Lab, and a staff member @ CSES.
+  Meanwhile, he developed HummingKit framework, Count Now app, and Beat On app.
+  Tony Tang was awarded WWDC 18 Scholarship and was a WWDC 20 Swift Student Challenge Winner.
 
-# Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://TonyTang2001.github.io'
 
-author: your_full_name                  # change to your full name
+author: Tony Tang
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: https://avatars1.githubusercontent.com/u/25687286?s=460&u=bb606e4eb94148984c0a7f1473d6d036aeed07cb&v=4   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: TonyTang2001
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Tony Tang
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Tony Tang                  # shows as the copyright owner in Footer
+  email: tonytangdev@outlook.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/TonyTang_here
+    - https://github.com/TonyTang2001
+    - https://www.facebook.com/profile.php?id=100012964713869
+    - https://www.linkedin.com/in/zixuan-tony-tang/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -51,7 +50,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Los_Angeles
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
